@@ -14,6 +14,7 @@ namespace PriceCalculator
         public string DiscountPercentage { get; set; }
         public int Quantiity { get; set; }
         public List <FurtherDiscount> FurtherDiscount { get; set; }
+        public string Dev1Change { get; set; }
         
         public string FeaturReleaseChange { get; set; }
     }
