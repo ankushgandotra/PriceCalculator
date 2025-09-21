@@ -13,6 +13,8 @@ namespace PriceCalculator
             try
             {
                 ShowForm();
+
+                string name = "james bond";
             }
 
             catch (Exception ex)
