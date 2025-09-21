@@ -15,6 +15,8 @@ namespace PriceCalculator
                 ShowForm();
 
                 string name = "james bond";
+                Console.WriteLine("Change from feature branch");
+
             }
 
             catch (Exception ex)
