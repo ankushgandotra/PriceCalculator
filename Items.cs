@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Security.Cryptography.X509Certificates;
 
 namespace PriceCalculator
 {
@@ -13,6 +14,8 @@ namespace PriceCalculator
         public string DiscountPercentage { get; set; }
         public int Quantiity { get; set; }
         public List <FurtherDiscount> FurtherDiscount { get; set; }
+        
+        public string FeaturReleaseChange { get; set; }
     }
   
     public class FurtherDiscount
