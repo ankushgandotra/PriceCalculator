@@ -16,6 +16,7 @@ namespace PriceCalculator
 
                 string name = "james bond";
                 Console.WriteLine("Change from feature1 branch");
+                Console.WriteLine("Changes from feature-release");
 
             }
 
