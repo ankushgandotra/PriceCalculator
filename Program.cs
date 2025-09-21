@@ -17,6 +17,7 @@ namespace PriceCalculator
                 string name = "james bond";
                 Console.WriteLine("Change from feature1 branch");
                 Console.WriteLine("Change from DEv1 branch");
+                Console.WriteLine("Change from DEv1 update branch");
             }
 
             catch (Exception ex)
